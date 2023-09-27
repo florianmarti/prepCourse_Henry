@@ -1,2 +1,1 @@
-# prepCourse_Henry
-Primer repo de henry repositorio de prueba
+Este proyecto es una prueba
